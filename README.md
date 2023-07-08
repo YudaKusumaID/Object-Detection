@@ -1,4 +1,4 @@
-# Deteksi Objek dengan YOLO dan URL M3U8
+# Deteksi Objek dengan bersumber M3u8 dengan YOLO
 
 ![deteksi_objek_yolo](https://raw.githubusercontent.com/YudaKusumaID/Object-Detection/main/Screenshot%202023-07-08%20115508.png)
 
